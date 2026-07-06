@@ -24,7 +24,7 @@
         <!-- Quarkus -->
         <quarkus.platform.group-id>io.quarkus.platform</quarkus.platform.group-id>
         <quarkus.platform.artifact-id>quarkus-bom</quarkus.platform.artifact-id>
-        <quarkus.platform.version>3.37.0</quarkus.platform.version>
+        <quarkus.platform.version>3.37.1</quarkus.platform.version>
 
         <!-- Dependencies -->
         <snakeyaml-engine.version>2.9</snakeyaml-engine.version>
