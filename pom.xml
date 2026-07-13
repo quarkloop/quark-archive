@@ -24,12 +24,12 @@
         <!-- Quarkus -->
         <quarkus.platform.group-id>io.quarkus.platform</quarkus.platform.group-id>
         <quarkus.platform.artifact-id>quarkus-bom</quarkus.platform.artifact-id>
-        <quarkus.platform.version>3.37.0</quarkus.platform.version>
+        <quarkus.platform.version>3.37.2</quarkus.platform.version>
 
         <!-- Dependencies -->
         <snakeyaml-engine.version>2.9</snakeyaml-engine.version>
         <graaljs.version>24.1.2</graaljs.version>
-        <nats.version>2.25.3</nats.version>
+        <nats.version>2.26.0</nats.version>
 
         <!-- Test -->
         <assertj.version>3.27.7</assertj.version>
